@@ -1,10 +1,18 @@
-<img src="C:\Users\matbo\Desktop\SiteWeb_Guzzi\randomly-typed.github.io\_assets\Logo.png" alt="Randomly Typed Logo">
+<link rel="stylesheet" href="assets/css/style.css">
 
-<h1 align="center"><a href="{{ site.url }}"><b>{{ site.title }}</b></a></h1>
+<div class="img-style">
+<img src="/assets/logo.jpg" alt="Randomly Typed Logo">
+</div>
 
-{% if page.layout == "home" %}
+<h1 align="center" class="visited"><a href="{{ site.url }}"><b>{{ site.title }}</b></a></h1>
+
+{% if page.layout == "home_1"  %}
 
 <p align="center" >In this podcast, we explore computer science, alpacas and other musings.</p>
 <p align ="center">Contact us at our email adress</p> 
 {% endif %}
-<hr>
+<hr class="hr-style">
+
+<!--for some reasons the header css styles are only applied on the home page..-->
+
+

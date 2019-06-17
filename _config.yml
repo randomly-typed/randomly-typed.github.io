@@ -34,5 +34,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      tile: "default title"
+      layout: "post_1"
+      tile: ""

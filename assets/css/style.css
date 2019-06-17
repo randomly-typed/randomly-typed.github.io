@@ -1,0 +1,25 @@
+
+/** My custom CSS classes **/
+/** Add your custom classes here to make it easier to find **/
+/**@import "main.css"**/
+.hr-style{
+    margin-left:15%;
+    margin-right:15%;
+  }
+.visited {
+    color: rgb(253, 10, 10);
+    text-decoration: none; }
+    a:visited {
+      color: #111; }
+    .visited:hover {
+      color: rgb(255, 9, 9);
+      text-decoration: underline; }
+    }
+    /* The img-style is not working properly, for unknown reasons */
+    .img-style{
+      height: 150px;
+      width: 150px;
+      margin-left: 45%;
+      margin-top: 5%;
+    }
+  

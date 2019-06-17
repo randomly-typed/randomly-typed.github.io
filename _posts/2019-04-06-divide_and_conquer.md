@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_1
 title: 03- Divide and Conquer
 date: 2019-04-06 -0400
 categories: podcast
