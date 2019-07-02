@@ -20,13 +20,40 @@
     .img-style{
       height: 150px;
       width: 150px;
+      
       /* You might not need this anymore after you are done with the flexbox*/
       /*margin-left: 45%;
       margin-top: 5%;*/
     }
   
+
+/* retravailler le flex pour que ce soit pas caca sur mobile */
 .box{
-  display: flex;
-  margin-left: 25%;
-  margin-top: 3%;
+  margin: 20px auto;
+}
+.rounded{
+  border-radius: 8px;
+}
+.feed-icon{
+  max-width: 50px;
+  max-height: 50px;
+  min-width: 20px;
+  min-height: 20px;
+}
+.feed-container{
+  display: inline-block;
+  background: grey;
+  padding:5px;
+  margin-left: 10px;
+  border-radius:8px;
+}
+body{
+  border-top:5px solid #8258c4;
+}
+.header-container{
+  border-bottom:1px solid gray;
+  padding-bottom: 10px;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-gap:10px;
 }

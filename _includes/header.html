@@ -1,23 +1,34 @@
 <link rel="stylesheet" href="/assets/css/style.css">
-
 <div class="box">
-<div class="img-style">
-<img src="/assets/logo.jpg" alt="Randomly Typed Logo">
-</div>
-<div>
-<h1 class="visited"><a href="{{ site.url }}"><b>{{ site.title }}</b></a></h1>
-<!-- 
+    <div class="header-container">
+        <div class="img-style">
+            <img class="rounded" src="/assets/logo.jpg" alt="Randomly Typed Logo">
+
+
+        </div>
+        <div>
+            <h1 class="visited"><a href="{{ site.url }}"><b>{{ site.title }}</b></a></h1>
+            <!-- 
 {% if page.layout == "home_1"  %}
 <p>In this podcast, we explore computer science, alpacas and other musings.<br> Contact us at placeholder@randomlytyped.com</p>
 </div>
 {% endif %}
 -->
-<p >In this podcast, we explore computer science, alpacas and other musings.<br> Contact us at placeholder@randomlytyped.com</p>
+            <p>In this podcast, we explore computer science, alpacas and other musings.<br> Contact us at
+                placeholder@randomlytyped.com</p>
+            <a class="feed-container" href="https://itunes.apple.com/us/podcast/randomly-typed/id1456664558?mt=2&uo=4">
+                <img src="/assets/itunes-note-brands.svg" alt="itunes logo" class="feed-icon">
 
-</div>
-</div>
+            </a>
+            <a class="feed-container" href="https://pca.st/y3f9">
+                <img src="/assets/podcast-solid.svg" alt="Podcast Logo" class="feed-icon">
 
-</div>
+            </a>
+            <a class="feed-container" href="https://anchor.fm/s/9cb0b84/podcast/rss">
+                <img src="/assets/rss-solid.svg" alt="rss logo" class="feed-icon">
 
+            </a>
+        </div>
 
-<hr class="hr-style">
+    </div>
+
