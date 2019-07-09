@@ -3,9 +3,7 @@ layout: post_1
 title: 07- Technical Debt
 date: 2019-06-08 -0400
 categories: podcast
+anchor: https://anchor.fm/randomly-typed/embed/episodes/7---Technical-Debt-e49g1d/a-agqips
 ---
-<div class="iframe-container">
-<iframe src="https://anchor.fm/randomly-typed/embed/episodes/7---Technical-Debt-e49g1d/a-agqips" frameborder="0" scrolling="no"></iframe>
-</div>
 We explore the topic of software quality and discover what technical debt actually means.
 
