@@ -6,4 +6,3 @@ categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/7---Technical-Debt-e49g1d/a-agqips
 ---
 We explore the topic of software quality and discover what technical debt actually means.
-
