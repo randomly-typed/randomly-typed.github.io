@@ -35,9 +35,10 @@ a:hover {
 }
 body {
     border-top:5px solid #8258c4;
+    counter-reset: footnote_counter;
 }
 .header-container {
-    border-bottom:1px solid gray;
+    border-bottom:1px solid #e6e6e6;
     padding-bottom: 10px;
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -48,6 +49,36 @@ body {
 .iframe-container {
     width: 100%;
     max-width: 400px;
+}
+.description {
+    font-size: 14px;
+    color: #828282;
+}
+.post-list > li {
+    border-bottom:1px solid #e6e6e6;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.post-content h1 {
+    font-size: 32px;
+}
+.post-content h2 {
+    font-size: 28px;
+}
+.post-content h3 {
+    font-size: 24px;
+}
+.footnote {
+    font-size: 10px;
+    position: relative;
+    top: -0.6em;
+}
+.footnote:before {
+    counter-increment: footnote_counter;
+    content: "[" counter(footnote_counter) "]";
+}
+.footnotes {
+    font-size: 12px;
 }
 @media (max-width: 420px){
     .img-style {
