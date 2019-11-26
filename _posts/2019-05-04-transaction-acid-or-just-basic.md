@@ -117,7 +117,7 @@ Instead of overwriting original data, make a copy of the data with applied modif
 Downside is the cost of storing multiple copies of data throughout time.
 
 <span class="footnotes">
-  [1] https://en.wikipedia.org/wiki/Database_transaction <br/>
-  [2] https://en.wikipedia.org/wiki/ACID_(computer_science) <br/>
-  [3] https://en.wikipedia.org/wiki/Isolation_%28database_systems%29 <br/>
+  <a href="https://en.wikipedia.org/wiki/Database_transaction">[1] https://en.wikipedia.org/wiki/Database_transaction</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/ACID_(computer_science)">[2] https://en.wikipedia.org/wiki/ACID_(computer_science)</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Isolation_%28database_systems%29">[3] https://en.wikipedia.org/wiki/Isolation_%28database_systems%29</a> <br/>
 </span>

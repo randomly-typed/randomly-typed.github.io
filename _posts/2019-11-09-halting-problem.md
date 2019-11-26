@@ -61,5 +61,5 @@ This is impossible. In the if, if `f(h)` returns true (so the program will halt)
 Conclusion: There is a fundamental limitation to the power and expressibility of computing, and therefore logic.
 
 <span class="footnotes">
-  [1]  https://en.wikipedia.org/wiki/Halting_problem<br/>
+  <a href="https://en.wikipedia.org/wiki/Halting_problem">[1] https://en.wikipedia.org/wiki/Halting_problem</a> <br/>
 </span>

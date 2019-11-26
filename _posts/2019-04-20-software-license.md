@@ -72,13 +72,13 @@ description: "Can I take your code and sell it? We discuss the variety of availa
 - No license: Code without an explicit license is protected by copyright and is by default All Rights Reserved. <span class="footnote"></span>
 
 <span class="footnotes">
-  [1] https://en.wikipedia.org/wiki/License <br/>
-  [2] https://en.wikipedia.org/wiki/Intellectual_property <br/>
-  [3] https://en.wikipedia.org/wiki/Software_license <br/>
-  [4] https://snyk.io/blog/mit-apache-bsd-fairest-of-them-all/ <br/>
-  [5] https://www.geekwire.com/2019/amazon-web-services-calls-mongodbs-licensing-bluff-documentdb-new-managed-database/ <br/>
-  [6] https://www.zdnet.com/article/redis-labs-drops-commons-clause-for-a-new-license/ <br/>
-  [7] https://www.theregister.co.uk/2019/02/22/redis_labs_changes_license_funding_60m/ <br/>
-  [8] https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87 <br/>
-  [9] https://www.infoworld.com/article/2615869/github-needs-to-take-open-source-seriously.html <br/>
+  <a href="https://en.wikipedia.org/wiki/License">[1] https://en.wikipedia.org/wiki/License</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Intellectual_property">[2] https://en.wikipedia.org/wiki/Intellectual_property</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Software_license">[3] https://en.wikipedia.org/wiki/Software_license</a> <br/>
+  <a href="https://snyk.io/blog/mit-apache-bsd-fairest-of-them-all/">[4] https://snyk.io/blog/mit-apache-bsd-fairest-of-them-all/</a> <br/>
+  <a href="https://www.geekwire.com/2019/amazon-web-services-calls-mongodbs-licensing-bluff-documentdb-new-managed-database/">[5] https://www.geekwire.com/2019/amazon-web-services-calls-mongodbs-licensing-bluff-documentdb-new-managed-database/</a> <br/>
+  <a href="https://www.zdnet.com/article/redis-labs-drops-commons-clause-for-a-new-license/">[6] https://www.zdnet.com/article/redis-labs-drops-commons-clause-for-a-new-license/</a> <br/>
+  <a href="https://www.theregister.co.uk/2019/02/22/redis_labs_changes_license_funding_60m/">[7] https://www.theregister.co.uk/2019/02/22/redis_labs_changes_license_funding_60m/</a> <br/>
+  <a href="https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87">[8] https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87</a> <br/>
+  <a href="https://www.infoworld.com/article/2615869/github-needs-to-take-open-source-seriously.html">[9] https://www.infoworld.com/article/2615869/github-needs-to-take-open-source-seriously.html</a> <br/>
 </span>

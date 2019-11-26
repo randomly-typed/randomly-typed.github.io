@@ -66,5 +66,5 @@ Completeness is proving the presence of errors. If a program is rejected by the 
 Since we know that no mathematical system is guaranteed to be complete, we know that no type system is guaranteed to be fully complete (or sound).
 
 <span class="footnotes">
-  [1] https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems <br/>
+  <a href="https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems">[1] https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems</a> <br/>
 </span>

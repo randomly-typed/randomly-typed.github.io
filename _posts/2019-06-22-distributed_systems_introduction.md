@@ -64,6 +64,6 @@ Fault-tolerant systems are ones that can always handle system failures: so 100% 
 In theoretical computer science, the PACELC theorem is an extension to the CAP theorem. It states that in case of network partitioning (P) in a distributed computer system, one has to choose between availability (A) and consistency (C) (as per the CAP theorem), but else (E), even when the system is running normally in the absence of partitions, one has to choose between latency (L) and consistency (C).
 
 <span class="footnotes">
-  [1] https://en.wikipedia.org/wiki/CAP_theorem <br/>
-  [2] https://en.wikipedia.org/wiki/PACELC_theorem <br/>
+  <a href="https://en.wikipedia.org/wiki/CAP_theorem">[1] https://en.wikipedia.org/wiki/CAP_theorem</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/PACELC_theorem">[2] https://en.wikipedia.org/wiki/PACELC_theorem</a> <br/>
 </span>

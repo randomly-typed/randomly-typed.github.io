@@ -85,19 +85,19 @@ description: "Are cryptocurrencies just hype? Probably, but let's still talk abo
 - JP Morgan announced JPM Coin which will be backed by the USD.
 
 <span class="footnotes">
-  [1] http://bancroft.berkeley.edu/ROHO/projects/debt/terminationgolddollar.html <br/>
-  [2] https://mentalfloss.com/article/12715/why-did-us-abandon-gold-standard <br/>
-  [3] https://hbr.org/2017/01/the-truth-about-blockchain <br/>
-  [4] https://hbr.org/2017/01/the-truth-about-blockchain <br/>
-  [5] https://hbr.org/2017/01/the-truth-about-blockchain <br/>
-  [6] https://en.wikipedia.org/wiki/Double-spending <br/>
-  [7] https://en.wikipedia.org/wiki/Double-spending <br/>
-  [8] https://bitcoin.org/bitcoin.pdf <br/>
-  [9] https://en.wikipedia.org/wiki/Blockchain <br/>
-  [10] https://bitcoin.org/bitcoin.pdf <br/>
-  [11] https://bitcoinfees.info/ <br/>
-  [12] https://www.blockchain.com/charts/avg-confirmation-time?daysAverageString=7&timespan=1year <br/>
-  [13] https://digiconomist.net/bitcoin-energy-consumption <br/>
-  [14] https://www.computerworld.com.au/article/606253/understanding-blockchain-hype-why-much-it-nothing-more-than-snake-oil-spin/ <br/>
-  [15] https://decryptmedia.com/5173/jp-morgan-coin-cryptocurrency <br/>
+  <a href="http://bancroft.berkeley.edu/ROHO/projects/debt/terminationgolddollar.html">[1] http://bancroft.berkeley.edu/ROHO/projects/debt/terminationgolddollar.html</a> <br/>
+  <a href="https://mentalfloss.com/article/12715/why-did-us-abandon-gold-standard">[2] https://mentalfloss.com/article/12715/why-did-us-abandon-gold-standard</a> <br/>
+  <a href="https://hbr.org/2017/01/the-truth-about-blockchain">[3] https://hbr.org/2017/01/the-truth-about-blockchain</a> <br/>
+  <a href="https://hbr.org/2017/01/the-truth-about-blockchain">[4] https://hbr.org/2017/01/the-truth-about-blockchain</a> <br/>
+  <a href="https://hbr.org/2017/01/the-truth-about-blockchain">[5] https://hbr.org/2017/01/the-truth-about-blockchain</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Double-spending">[6] https://en.wikipedia.org/wiki/Double-spending</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Double-spending">[7] https://en.wikipedia.org/wiki/Double-spending</a> <br/>
+  <a href="https://bitcoin.org/bitcoin.pdf">[8] https://bitcoin.org/bitcoin.pdf</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Blockchain">[9] https://en.wikipedia.org/wiki/Blockchain</a> <br/>
+  <a href="https://bitcoin.org/bitcoin.pdf">[10] https://bitcoin.org/bitcoin.pdf</a> <br/>
+  <a href="https://bitcoinfees.info/">[11] https://bitcoinfees.info/</a> <br/>
+  <a href="https://www.blockchain.com/charts/avg-confirmation-time?daysAverageString=7&timespan=1year">[12] https://www.blockchain.com/charts/avg-confirmation-time?daysAverageString=7&timespan=1year</a> <br/>
+  <a href="https://digiconomist.net/bitcoin-energy-consumption">[13] https://digiconomist.net/bitcoin-energy-consumption</a> <br/>
+  <a href="https://www.computerworld.com.au/article/606253/understanding-blockchain-hype-why-much-it-nothing-more-than-snake-oil-spin/">[14] https://www.computerworld.com.au/article/606253/understanding-blockchain-hype-why-much-it-nothing-more-than-snake-oil-spin/</a> <br/>
+  <a href="https://decryptmedia.com/5173/jp-morgan-coin-cryptocurrency">[15] https://decryptmedia.com/5173/jp-morgan-coin-cryptocurrency</a> <br/>
 </span>

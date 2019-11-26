@@ -101,11 +101,11 @@ was for a time regarded the most accessible CAPTCHA solution for one simple reas
 But now, keyboard navigation doesn’t seem to work anymore
 
 <span class="footnotes">
-  [1] https://en.wikipedia.org/wiki/Accessibility <br/>
-  [2] https://www.disabled-world.com/disability/types/ <br/>
-  [3] https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html <br/>
-  [4] https://en.wikipedia.org/wiki/Accessibility#Employment <br/>
-  [5] https://en.wikipedia.org/wiki/Accessibility/Web_accessibility_features <br/>
-  [6] https://a11yproject.com/ <br/>
-  [7] https://www.w3.org/TR/turingtest/#version-2-are-you-a-robot <br/>
+  <a href="https://en.wikipedia.org/wiki/Accessibility">[1] https://en.wikipedia.org/wiki/Accessibility</a> <br/>
+  <a href="https://www.disabled-world.com/disability/types/">[2] https://www.disabled-world.com/disability/types/</a> <br/>
+  <a href="https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html">[3] https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Accessibility#Employment">[4] https://en.wikipedia.org/wiki/Accessibility#Employment</a> <br/>
+  <a href="https://en.wikipedia.org/wiki/Accessibility/Web_accessibility_features">[5] https://en.wikipedia.org/wiki/Accessibility/Web_accessibility_features</a> <br/>
+  <a href="https://a11yproject.com/">[6] https://a11yproject.com/</a> <br/>
+  <a href="https://www.w3.org/TR/turingtest/#version-2-are-you-a-robot">[7] https://www.w3.org/TR/turingtest/#version-2-are-you-a-robot</a> <br/>
 </span>

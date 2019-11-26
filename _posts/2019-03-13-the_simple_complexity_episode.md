@@ -58,5 +58,5 @@ description: "An overview of computational complexity theory."
     - q could be much smaller than p
 
 <span class="footnotes">
-  [1] http://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm
+  <a href="http://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm">[1] http://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm</a>
 </span>
