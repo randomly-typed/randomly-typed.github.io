@@ -5,7 +5,9 @@ date:   2019-11-23 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/19---Gdels-incompleteness-theorems-e8vdgv"
 description: "Some of the toughest problems in mathematics went unsolved for long periods of time, only for them to be proven hundreds of years later. Can anything and everything eventually be proven with the right level of ingenuity? Gödel's shocking proofs tells us that there are some statements which just aren't provable, even if they appear to be true."
+permalink: /19.html
 ---
+
 # Previous episode
 ## Nix
 purely functional. It has no concept of sequential steps being executed, any dependency between operations is established by depending on data from previous operations.

@@ -5,7 +5,9 @@ date:   2019-12-08 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/20---Voting-Systems--The-Condorcet-Paradox-e93v44"
 description: "Lance and JS examine the social sciences to see what it means to have a fair voting system, and how every system we’ve come up with so far has some fatal flaws."
+permalink: /20.html
 ---
+
 # Arrow’s Theorem
 
 Did you vote in the latest Canadian Federal election? Do you feel that your vote mattered?

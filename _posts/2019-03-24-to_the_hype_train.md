@@ -5,6 +5,7 @@ date: 2019-03-24 -0400
 categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/To-the-Hype-Train-e3hp2h/a-ac7ape
 description: "Are cryptocurrencies just hype? Probably, but let's still talk about how they were created, their merits and their problems."
+permalink: /2.html
 ---
 
 ## “Real” currencies

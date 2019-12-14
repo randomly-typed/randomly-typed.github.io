@@ -5,6 +5,7 @@ date: 2019-04-20 -0400
 categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/Software-Licenses-e3psmk/a-adi4k1
 description: "Can I take your code and sell it? We discuss the variety of available licenses and whether they make sense in our current technological landscape."
+permalink: /4.html
 ---
 
 ## License <span class="footnote"></span>

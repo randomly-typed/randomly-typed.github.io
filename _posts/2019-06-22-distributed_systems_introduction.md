@@ -5,6 +5,7 @@ date: 2019-06-22 -0400
 categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/8---Distributed-Systems-Introduction-e4dntb/a-ahhft4
 description: "We go over the fundamentals of distributed systems and get to the bottom of buzzwords like scalability, availability and transparency."
+permalink: /8.html
 ---
 
 ## What is distributed systems?

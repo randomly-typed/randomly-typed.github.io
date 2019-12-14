@@ -5,6 +5,7 @@ date:   2019-10-12 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/16---Asymmetric-cryptosystems-and-digital-signing-e6p9ae/a-ap0q00"
 description: "JS and Lance continue their cryptography explorations by working through an example of RSA, an asymmetric cryptosystem, while discovering its surprising relationship to the concept of digital signatures."
+permalink: /16.html
 ---
 
 ## Asymmetric Cryptosystems

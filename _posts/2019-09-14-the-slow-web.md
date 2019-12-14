@@ -5,6 +5,7 @@ date:   2019-09-14 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/14---The-Slow-Web-e59j6h/a-amlpds"
 description: "JS and special guest Max discuss the slow web phenomenon and discuss what makes some technological experiences more meaningful than others."
+permalink: /14.html
 ---
 
 # Slow Web

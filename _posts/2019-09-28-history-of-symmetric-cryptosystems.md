@@ -5,6 +5,7 @@ date:   2019-09-28 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/15---History-of-Symmetric-Cryptosystems-e5kuhi"
 description: "JS and Lance are reunited! We go back in time to discover how the earliest cryptosystems worked and cover some ground on the basics of cryptography."
+permalink: /15.html
 ---
 
 # Why cryptography?

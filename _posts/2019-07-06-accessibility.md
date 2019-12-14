@@ -5,6 +5,7 @@ date: 2019-07-06 -0400
 categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/9---Accessibility-e4hslu/a-aiced1
 description: "We discuss the origins of accessibility and how things changed as society moved into the digital age."
+permalink: /9.html
 ---
 
 **GIVE A WARNING ABOUT THE FACT THAT WE ARE NOT EXPERTS**

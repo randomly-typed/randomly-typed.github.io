@@ -5,6 +5,7 @@ date:   2019-07-23 -0400
 categories: podcast
 anchor: https://anchor.fm/randomly-typed/embed/episodes/10---Prefix-Scans-e4neb6
 description: "We look at the prefix scan algorithm for the sum operation, and discover how it can be parallelized in a relatively simple but unintuitive way."
+permalink: /10.html
 ---
 
 Input: array of integers

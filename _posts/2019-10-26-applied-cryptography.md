@@ -5,6 +5,7 @@ date:   2019-10-12 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/17---Applied-Cryptography-and-Security-e851vp"
 description: "JS and Lance discuss the real-world applications and implications of cryptography with topics like key sharing, password keeping and end-to-end encryption."
+permalink: /17.html
 ---
 # Usages
 ##  Communication (PKI / CA)

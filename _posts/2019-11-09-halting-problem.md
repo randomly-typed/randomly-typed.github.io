@@ -5,7 +5,9 @@ date:   2019-11-09 -0400
 categories: podcast
 anchor: "https://anchor.fm/randomly-typed/embed/episodes/18---The-Halting-Problem-e8mu7k"
 description: "We travel back in time to the 1930s to discuss the mathematical landscape which lead to The Halting problem and how a machine constructed as a mental model for a proof defined modern computers."
+permalink: /18.html
 ---
+
 How easy would it be to write a program that takes a string
 
 # Trivial examples
