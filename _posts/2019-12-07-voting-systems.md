@@ -39,7 +39,7 @@ Not so simple when we have three options. Let’s pretend three people voted:
 |----------|----------|----------|----------|
 | JS       |  1       |    2     |    3     |
 | C        |  3       |    1     |    2     |
-| PHP      |  2       |     3    |    1     |
+| PHP      |  2       |    3     |    1     |
 
 Let’s look at everyone’s favorite language: it’s a tie
 Let’s look at everyone’s favorite pair of language:
