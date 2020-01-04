@@ -52,6 +52,7 @@ body {
 .iframe-container {
     width: 100%;
     max-width: 400px;
+    height: 98px;
 }
 .description {
     font-size: 14px;
