@@ -81,6 +81,6 @@ https://regexcrossword.com/
 https://stackoverflow.com/questions/38484433/join-tiles-in-corona-sdk-into-one-word-for-a-breakout-game-grid
 
 <span class="footnotes">
-  <a href="https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/">[1] https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/</a>
-  <a href="https://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016">[2] https://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016</a>
+  <a href="https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/">[1] https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/</a> <br/>
+  <a href="https://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016">[2] https://stackstatus.net/post/147710624694/outage-postmortem-july-20-2016</a> <br/>
 </span>
